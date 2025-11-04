@@ -1,0 +1,63 @@
+h1{
+	color: #ffffff;
+}
+
+body{
+	background-image: url(hotel.gif);
+	background-size: 1400px;
+	background-color: #fff;
+	background-repeat: no-repeat;
+	
+}
+
+p{
+	color: #87551b;
+}
+
+.greenParagraph{
+	color: 
+}
+
+table, td{
+	border-style: dashed;
+}
+
+td{
+	border-width: 2px;
+	border-color: #ffd9df;
+}
+table{
+	border-width: 4px;
+	border-color: #eaabb4;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img{
+	border-radius: 25px;
+}
+
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	background-color:#ffd9df ;
+	overflow: hidden;
+}
+li a{
+	float: left;
+	display: block;
+	width: 70px;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+	color: #87551b;
+}
+li a:hover{
+	background-color: #eaabb4;
+}
+.active{
+	border-bottom: 2px solid;  #87551b ;
+}
