@@ -11,20 +11,20 @@ body{
 }
 
 p{
-	color: #87551b;
+	color:  #ffffff;
 }
 
 .greenParagraph{
-	color: 
+	color:  #ffffff
 }
 
 table, td{
-	border-style: dashed;
+	border-style: none;
 }
 
 td{
 	border-width: 2px;
-	border-color: #ffd9df;
+	border-color:  #ffffff;
 }
 table{
 	border-width: 4px;
@@ -43,7 +43,7 @@ img:hover{
 
 ul{
 	list-style-type: none;
-	background-color:#ffd9df ;
+	background-color:#432f23 ;
 	overflow: hidden;
 }
 li a{
@@ -53,11 +53,11 @@ li a{
 	text-align: center;
 	padding: 15px 15px;
 	text-decoration: none;
-	color: #87551b;
+	color: #ffffff;
 }
 li a:hover{
-	background-color: #eaabb4;
+	background-color:#4f2d21;
 }
 .active{
-	border-bottom: 2px solid;  #87551b ;
+	border-bottom: 2px solid; #432f23;
 }
